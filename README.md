@@ -7,6 +7,15 @@ You'll find in this repersitory
 * The whole Python scripts behind the medium story
 * The demo dataframes
 
+The project covers the following thems 
+
+1. Dealing with Spatial Data
+2. Clustering
+3. Compute car and distance travel time using the Google Distance Matrix API 
+4. Dataviz with some libraries : Matplotlib, Seaborn
+
+
+
 
 
 
