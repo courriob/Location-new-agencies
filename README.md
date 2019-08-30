@@ -2,7 +2,7 @@
 
 How can data science help to find where to optimally open new “field sales agencies” in order to get sales representative closer to our prospects (potential customers) in terms of distance and car travel time?
 
-You'll find in this repersitory
+You'll find here
 
 * The whole Python scripts behind the medium story
 * The demo dataframes
